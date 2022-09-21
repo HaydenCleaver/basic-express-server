@@ -4,9 +4,8 @@
 
 ### Author: Hayden Cleaver
 
-- [tests report](https://github.com/HaydenCleaver/server-deployment-practice/actions)
-- [heroku-dev](https://dashboard.heroku.com/apps/hayden-server-deploy-dev)
-- [heroku-main](https://hayden-server-deploy-prod.herokuapp.com/)
+- [tests report](https://github.com/HaydenCleaver/basic-express-server/actions)
+- [heroku](https://hayden-basic-express-server.herokuapp.com/)
 ### Setup
 
 #### `.env` requirements
