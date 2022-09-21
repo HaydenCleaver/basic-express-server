@@ -21,8 +21,7 @@ app.get('/bad', (req, res, next) => {
 });
 
 app.get('/person', validator, (req, res, next) => {
-  let { name } = req.query;
-  res.status(200).send(name);
+  res.status(200).send(req.query);
 
 });
 
